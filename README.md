@@ -25,4 +25,4 @@ python main.py
 5. Open your web browser and visit: http://localhost:5000
 
 ## Appearance
-![]https://github.com/szyda/note-app/blob/main/overview.gif
+![](overview.gif)
